@@ -1,0 +1,16 @@
+.caard{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.App h1{
+  margin-left: 50%;
+}
+.App{
+  background-color: rgb(151, 222, 250);
+  height: 100vh;
+}
+.card{
+  padding-bottom: 20px;
+}
